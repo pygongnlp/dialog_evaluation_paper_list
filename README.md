@@ -10,6 +10,7 @@ Tasks include:
 * Dialog Policy
 * Knowledge-ground Dialog
 * Conversational Search
+* Conversational Recommendation
 * Others
 
 Modals include:
